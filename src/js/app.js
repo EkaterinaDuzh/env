@@ -1,11 +1,6 @@
-// TODO: write code here
+import Field from './Field';
+import GamePlay from './GamePlay';
 
-// comment this to pass build
-const unusedVariable = "variable";
-
-// for demonstration purpose only
-export default function demo(value) {
-  return `Demo: ${value}`;
-}
-
-console.log("app.js included");
+const fields = new Field();
+const gameplay = new GamePlay(fields);
+gameplay.init();
