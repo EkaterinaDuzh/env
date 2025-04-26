@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EkaterinaDuzh/dom-2.git"
+    "url": "git+https://github.com/EkaterinaDuzh/dom_2.git"
   },
   "author": "",
   "license": "ISC",
@@ -49,7 +49,7 @@
     "webpack-merge": "6.0.1"
   },
   "bugs": {
-    "url": "https://github.com/EkaterinaDuzh/dom-2/issues"
+    "url": "https://github.com/EkaterinaDuzh/dom_2/issues"
   },
-  "homepage": "https://github.com/EkaterinaDuzh/dom-2#readme"
+  "homepage": "https://github.com/EkaterinaDuzh/dom_2#readme"
 }
